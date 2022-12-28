@@ -1,5 +1,5 @@
-# Driver: Elijah Shuman (U75798573)
-# Navigator: Aliana Palmer (U69705951)
+# Driver: Elijah Shuman 
+# Navigator: Aliana Palmer 
 
 #This class defines the questions object and provides moutator and accessor methods for each of the objesct's variables
 class Questions:
