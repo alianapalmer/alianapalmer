@@ -1,5 +1,5 @@
-# Driver: Elijah Shuman (U75798573)
-# Navigator: Aliana Palmer (U69705951)
+# Driver: Elijah Shuman 
+# Navigator: Aliana Palmer 
 #This program gets 2 sets of x,y coordinates from the user and calculates the slope of the line that connects them.
 
 #gets the coordinates from the user
