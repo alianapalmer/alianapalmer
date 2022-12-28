@@ -1,5 +1,5 @@
-# Driver: Elijah Shuman (U75798573)
-# Navigator: Aliana Palmer (U69705951)
+# Driver: Elijah Shuman 
+# Navigator: Aliana Palmer 
 
 #Calculates the angle of an incline a cart is being pushed up
 import math
