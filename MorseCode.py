@@ -1,5 +1,5 @@
-# Driver: Elijah Shuman (U75798573)
-# Navigator: Aliana Palmer (U69705951)
+# Driver: Elijah Shuman 
+# Navigator: Aliana Palmer 
 
 #This program takes a user input String and converts it to morse code
 
