@@ -1,5 +1,5 @@
-# Driver: Elijah Shuman (U75798573)
-# Navigator: Aliana Palmer (U69705951)
+# Driver: Elijah Shuman 
+# Navigator: Aliana Palmer 
 #This program gets velocity and acceleration form the user and calculates the minimum runway length needed for takeoff.
 
 #get v and a from user
