@@ -1,5 +1,5 @@
-# Driver: Elijah Shuman (U75798573)
-# Navigator: Aliana Palmer (U69705951)
+# Driver: Elijah Shuman 
+# Navigator: Aliana Palmer 
 
 # This program provides information on a select number of courses that a user selects
 courseNum = ("COP 2510","EGN 3000L","MAC 2281","MUH 3016","PHY 2048")
