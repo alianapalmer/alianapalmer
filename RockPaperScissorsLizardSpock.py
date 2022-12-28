@@ -1,5 +1,5 @@
-# Driver: Elijah Shuman (U75798573)
-# Navigator: Aliana Palmer (U69705951)
+# Driver: Elijah Shuman 
+# Navigator: Aliana Palmer 
 
 #This program lets  a user play Rock, Paper, Scissors, Lizard, Spock against the computer
 import random
