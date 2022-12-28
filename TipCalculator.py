@@ -1,5 +1,5 @@
-# Driver: Elijah Shuman (U75798573)
-# Navigator: Aliana Palmer (U69705951)
+# Driver: Elijah Shuman 
+# Navigator: Aliana Palmer 
 #This program gets the subtotal and tip percentage from a user and calculates the tip amount and total.
 
 #get subtotal and tip percentage from user.
